@@ -22,10 +22,10 @@
 ## 📂 Estructura del Código  
 
 🔹 **Funciones para cada operación:**  
-   - `suma(a, b)`: retorna la suma de dos números.  
-   - `resta(a, b)`: retorna la resta de dos números.  
-   - `multiplicacion(a, b)`: retorna el producto de dos números.  
-   - `division(a, b)`: realiza la división y maneja el error de división por cero.  
+   - ➕`suma(a, b)`: retorna la suma de dos números.  
+   - ➖`resta(a, b)`: retorna la resta de dos números.  
+   - ✖️`multiplicacion(a, b)`: retorna el producto de dos números.  
+   - ➗`division(a, b)`: realiza la división y maneja el error de división por cero.  
 
 🔹 **Función principal:**  
    - `main()`: gestiona el menú y la entrada del usuario.  
@@ -49,4 +49,4 @@ Para ejecutar el programa, abre una terminal y corre el siguiente comando:
 
 ```sh
 python calculadora.py
-
+```
